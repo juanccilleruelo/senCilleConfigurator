@@ -4,7 +4,7 @@
 
 ## What is this Product Configurator? 
 
-###senCille Configurator is a standalone Product Configurator. 
+### senCille Configurator is a standalone Product Configurator. 
 
 Since its creation, it has been oriented to **Furniture Manufacturing**, but its functionalities are not limited to this field.
 
