@@ -19,8 +19,12 @@ When you change the product's characteristics, it is possible that some pieces a
 
 **senCille Configurator** is also able to calculate the price of the product based on calculations made during the creation of the product.
 After creating or configuring your product, you can get many reports with the target of manufacturing the product or a quantity of products. 
+
+
 In our plans, too, is the development of a cutting planner to get all the melamine pieces and place them into big standard boards. But this is for the future. 
 By now, you can enjoy with **senCille Configurator** and help us to improve his characteristics. 
-Juan C.Cilleruelo 
+
+
+**Juan C.Cilleruelo** 
 
 
